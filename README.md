@@ -1,7 +1,7 @@
 # portfolio
 My portfolio.
 
-# About Me
+# About me
 My name is Oscar Medina. I am a graduate student at Carnegie Mellon University studying management and public policy.  I am originally from San Diego, California, and my background is in transportation planning. 
 
 I started my career working at a private planning consulting firm that specialized in online community engagement. After a year, I moved to a mobility-focused nonprofit that advocates for smart growth initiatives and pedestrian/bike safety projects. Right before moving to Pittsburgh, I worked at an environmental justice organization on transportation policy issues. 
