@@ -12,3 +12,7 @@ The below graphs show GDP debt ratios for 35 countries ordered alphabetically.
 This visualization displays the same information as above but as individual graphs that you can toggle between by using the dropdown menu on the upper left. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255857"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Among the countries that reported data in 2020, the United States had the second-largest GDP debt ratio. It was topped only by Greece. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7255933"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
