@@ -10,7 +10,9 @@ I started my career working at a private planning consulting firm that specializ
 I want to learn about what makes something appealing and attractive. I want to produce products that catch people's attention and get noticed. I also want to learn mistakes I should avoid. I want to know what I am doing wrong so that I can make adjustments and do better. I also want to learn about new tools and resources that could help me produce beautiful graphs.
 
 # Portfolio
-#### Assignment: Visualizing government debt
+#### [Assignment 2: Visualizing government debt] (dataviz2.md)
+
+
 #### Crafting for Clarity Sketches
 #### Choosing Chart Types Sketches
 #### Final Project
