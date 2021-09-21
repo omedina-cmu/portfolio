@@ -13,5 +13,5 @@ The lines portray interesting information, but they're hard to track. People are
 ![PXL_20210921_014204660](https://user-images.githubusercontent.com/78521868/134105772-936afbdf-3a19-4ce5-a781-8f699735b3b1.jpg)
 I came up with two different mock-ups that I showed to two people. Both told me that the dot plot with a single axis was easier to understand. I also was told that it was not obvious how many teams could make it to the playoffs, so I adjusted the title to make that clearer. Another piece of feedback I recieved was that the color codes were confusing. I had made the teams that would make the playoffs if the season ended today green and those that would be out red. My critics felt the colors made it unclear that the playoff race was still fluid and could change. I removed the colors. 
 
-####Final Data Viz
+#### Final Data Viz
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7314266"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
