@@ -10,3 +10,4 @@ I chose a visualization that depicts the probabilities of the teams that still h
 The lines portray interesting information, but they're hard to track. People are interested in where the teams are right now. They also introduce too much color.  Instead of showing the probabilities of the teams over time, I decided to focus on the endpoints to show each team's chances right now.  
 
 #### Wireframing
+![PXL_20210921_014204660](https://user-images.githubusercontent.com/78521868/134105772-936afbdf-3a19-4ce5-a781-8f699735b3b1.jpg)
