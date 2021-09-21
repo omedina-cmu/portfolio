@@ -4,5 +4,9 @@
 #### Screenshot of the original visualization
 
 ![image](https://user-images.githubusercontent.com/78521868/134104662-b7b2c3ac-5f70-441a-8bd9-ec2161f98e90.png)
-
 I chose a visualization that depicts the probabilities of the teams that still have a shot at making the MLB playoffs for the National League. I chose this chart because it's very topical as the baseball regular season is winding down, and five teams are vying for the remaining two post-season spots. As a baseball fan, I am constantly wondering what my team's odds are of making the playoffs, and had come across the chart above. Fangraphs is a respected source, and I thought I could make some improvements for my benefit and other fans. 
+#### Things that don't work with the original graph
+
+The lines portray interesting information, but they're hard to track. People are interested in where the teams are right now. They also introduce too much color.  Instead of showing the probabilities of the teams over time, I decided to focus on the endpoints to show each team's chances right now.  
+
+#### Wireframing
