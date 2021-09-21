@@ -13,6 +13,6 @@ I want to learn about what makes something appealing and attractive. I want to p
 #### [Assignment 2: Visualizing government debt](dataviz2.md)
 
 
-#### Crafting for Clarity Sketches
+#### [Assignment 3 & 4: Critique by Design](dataviz3.md)
 #### Choosing Chart Types Sketches
 #### Final Project
