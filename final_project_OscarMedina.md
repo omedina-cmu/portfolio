@@ -49,7 +49,7 @@ A column in the table on the first page has the retail gap (demand minus supply)
 
 #### Data Source
 
-I am using the [2019 Larimer business district profile] (https://www.ura.org/business-district-profiles/larimer-larimer-avenue) as my source data because the updates I worked on during the summer are still working their way through the review process and are not yet final. Also, the 2019 profiles are publicly accessible on the [URA website] (https://www.ura.org/business-district-profiles). For any comparisons, I will use data from those respective business districts. 
+I am using the [2019 Larimer business district profile](https://www.ura.org/business-district-profiles/larimer-larimer-avenue) as my source data because the updates I worked on during the summer are still working their way through the review process and are not yet final. Also, the 2019 profiles are publicly accessible on the [URA website](https://www.ura.org/business-district-profiles). For any comparisons, I will use data from those respective business districts. 
 
 
 
