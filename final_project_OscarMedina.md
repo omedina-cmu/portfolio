@@ -22,7 +22,7 @@ Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021
  * Potential visualizations:
   * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
   * A tree map to show the types of businesses that are in Larimer
-  * Visualization to show much unmet demand there is in Larimer vs a neighboring comparison district
+  * Visualization to show how much unmet demand there is in Larimer vs a neighboring comparison district
   * The opportunities as measured by sectors in Larimer where demand outpaces supply
 5. Why should a business owner invest in Pittsburgh?
   * URA is all in Larimer
