@@ -51,5 +51,9 @@ A column in the table on the first page has the retail gap (demand minus supply)
 
 I am using the [2019 Larimer business district profile](https://www.ura.org/business-district-profiles/larimer-larimer-avenue) as my source data because the updates I worked on during the summer are still working their way through the review process and are not yet final. Also, the 2019 profiles are publicly accessible on the [URA website](https://www.ura.org/business-district-profiles). For any comparisons, I will use data from those respective business districts. 
 
+#### Method
 
+I plan to use Esri Story Maps. The place-based nature of my project will work in this format. Story maps will allow me to embed my charts into it and also let incorporate some spatial data. The URA has a shapefile for all the districts, and I could quickly join the data I have with those files. 
+
+However, the main reason I want to use story maps is for the tour feature, where I could show prospective business owners that the URA is invested in Larimer by showcasing a few projects they've completed in the project. These investments demonstrate that the URA has skin in the game and will work closely with businesses to succeed.
 
