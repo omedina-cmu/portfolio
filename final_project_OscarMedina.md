@@ -13,7 +13,7 @@ For my story, I will focus on Larimer.
 ##### Screnshot of page 1 of its market district profile
 ![image](https://user-images.githubusercontent.com/78521868/135010788-7fde0235-1987-4b07-b9cd-ebc1aea8ce16.png)
 
-Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021. (https://www.ura.org/business-district-profiles/larimer-larimer-avenue).
+Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021. [https://www.ura.org/business-district-profiles/larimer-larimer-avenue] (https://www.ura.org/business-district-profiles/larimer-larimer-avenue).
 #### Outline
 1. Title
 2. Subtitle
@@ -26,7 +26,7 @@ Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021
   * The opportunities as measured by sectors in Larimer where demand outpaces supply
 5. Why should a business owner invest in Pittsburgh?
   * URA is all in Larimer
-  * URA has programs and financing options to help you get started
+  * URA has programs and financing options to help businesses get started
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
 7. Call to action
   * Contact a loan officer at the URA and start your business!
