@@ -18,15 +18,15 @@ For my story, I will focus on Larimer.
 2. Subtitle
 3. Hero image of Larimer
 4. Context to demonstrate how Larimer is underserved
-##### Potential visualizations:
- * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
- * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
- * Visualization to show much unmet demand there is in Larimer vs a neighboring comparison district
- * The opportunities as measured by sectors in Larimer where demand outpaces supply
+ * Potential visualizations:
+  * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
+  * Scatter plot that shows how many businesses and employees are in Larimer compared to the other districts
+  * Visualization to show much unmet demand there is in Larimer vs a neighboring comparison district
+  * The opportunities as measured by sectors in Larimer where demand outpaces supply
 5. Why should a business owner invest in Pittsburgh?
   * URA is all in Larimer
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
-7. CALL TO ACTION
+7. Call to action
   * Contact a loan officer at the URA and start your business!
 
 #### Sketches
