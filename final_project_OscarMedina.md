@@ -30,12 +30,21 @@ For my story, I will focus on Larimer.
   * Contact a loan officer at the URA and start your business!
 
 #### Sketches
+A column in the table on the first page has the retail gap (demand minus supply) of different sectors. I want to create a bar graph sorted in descending order to show opportunities for unmet demand. 
+![PXL_20210928_020211030](https://user-images.githubusercontent.com/78521868/135014436-cf6180c3-2f29-469e-9169-e61486595166.jpg)
 
-![PXL_20210928_020229673](https://user-images.githubusercontent.com/78521868/135014370-dae4ab41-8e7c-4fac-b124-4f82ff82d3a2.jpg)
-
-![PXL_20210928_020227482](https://user-images.githubusercontent.com/78521868/135014386-045a18a3-d28c-4f13-96dc-8262d9b725d8.jpg)
-
+A tree map chart could effectively show the composition of the types of businesses currently in Larimer.
 ![PXL_20210928_020216410](https://user-images.githubusercontent.com/78521868/135014400-a70f8d7d-638d-441d-b862-b0b5b4a13731.jpg)
 
-![PXL_20210928_020211030](https://user-images.githubusercontent.com/78521868/135014436-cf6180c3-2f29-469e-9169-e61486595166.jpg)
+I like this type of graph to show how Larimer is underserved versus a comparison community. I will probably choose East Liberty or Shadyside because they are adjacent to Larimer. I would pull the comparison data from their profiles.
+![PXL_20210928_020227482](https://user-images.githubusercontent.com/78521868/135014386-045a18a3-d28c-4f13-96dc-8262d9b725d8.jpg)
+
+The profiles tell us the ratio of employees to businesses in each community. I could create a scatter plot to show where Larimer ranks among the other districts. 
+![PXL_20210928_020229673](https://user-images.githubusercontent.com/78521868/135014370-dae4ab41-8e7c-4fac-b124-4f82ff82d3a2.jpg)
+
+
+
+
+
+
 
