@@ -25,7 +25,7 @@ Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021
   * Visualization to show how much unmet demand there is in Larimer vs a neighboring comparison district
   * The opportunities as measured by sectors in Larimer where demand outpaces supply
 5. Why should a business owner invest in Pittsburgh?
-  * URA is all in Larimer
+  * URA is all on Larimer
   * URA has programs and financing options to help businesses get started
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
 7. Call to action
