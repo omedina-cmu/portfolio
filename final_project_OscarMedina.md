@@ -43,9 +43,9 @@ A tree map chart could effectively show the composition of the types of business
 
 ![PXL_20210928_020227482](https://user-images.githubusercontent.com/78521868/135014386-045a18a3-d28c-4f13-96dc-8262d9b725d8.jpg)
 
-A column in the table on the first page has the retail gap (demand minus supply) of different sectors. I want to create a bar graph sorted in descending order to show opportunities for unmet demand.!
+A column in the table on the first page has the retail gap (demand minus supply) of different sectors. I want to create a bar graph sorted in descending order to show opportunities for unmet demand.
 
-[PXL_20210928_020229673](https://user-images.githubusercontent.com/78521868/135014370-dae4ab41-8e7c-4fac-b124-4f82ff82d3a2.jpg)
+![PXL_20210928_020229673](https://user-images.githubusercontent.com/78521868/135014370-dae4ab41-8e7c-4fac-b124-4f82ff82d3a2.jpg)
 
 
 
