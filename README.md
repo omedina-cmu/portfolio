@@ -14,5 +14,5 @@ I want to learn about what makes something appealing and attractive. I want to p
 
 
 #### [Assignment 3 & 4: Critique by Design](dataviz3.md)
-#### [Final Project Part I] (final_project_OscarMedina.md)
+#### [Final Project Part I](final_project_OscarMedina.md)
 
