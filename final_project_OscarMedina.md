@@ -25,7 +25,7 @@ Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021
   * Visualization to show how much unmet demand there is in Larimer vs a neighboring comparison district
   * The opportunities as measured by sectors in Larimer where demand outpaces supply
 5. Why should a business owner invest in Pittsburgh?
-  * URA is all on Larimer
+  * URA is all in on Larimer
   * URA has programs and financing options to help businesses get started
 6. Map tour element in story maps to showcase a few projects the URA worked on in Larimer.
 7. Call to action
@@ -55,7 +55,7 @@ I am using the [2019 Larimer business district profile](https://www.ura.org/busi
 
 #### Method
 
-I plan to use Esri Story Maps. The place-based nature of my project will work in this format. Story maps will allow me to embed my charts into it and also let incorporate some spatial data. The URA has a shapefile for all the districts, and I could quickly join the data I have with those files. 
+I plan to use Esri Story Maps. The place-based nature of my project will work in this format. Story maps will allow me to embed my charts into it and also let me incorporate spatial data. The URA has a shapefile for all the districts, and I could quickly join the data I have with those files. 
 
 However, the main reason I want to use story maps is for the tour feature, where I could show prospective business owners that the URA is invested in Larimer by showcasing a few projects they've completed in the project. These investments demonstrate that the URA has skin in the game and will work closely with businesses to succeed.
 
