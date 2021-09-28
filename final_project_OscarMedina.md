@@ -10,7 +10,7 @@ The profiles are presented matter-of-factly. But, they are the perfect source ma
 
 For my story, I will focus on Larimer.
 
-##### Screnshot of page 1 of its market district profile
+##### Screnshot of page 1 of Larimer's district profile
 ![image](https://user-images.githubusercontent.com/78521868/135010788-7fde0235-1987-4b07-b9cd-ebc1aea8ce16.png)
 
 Source: “Larimer Neigborhood Business District.” Accessed September 28, 2021. [https://www.ura.org/business-district-profiles/larimer-larimer-avenue] (https://www.ura.org/business-district-profiles/larimer-larimer-avenue).
