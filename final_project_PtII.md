@@ -20,4 +20,4 @@ People I interviewed liked the tour map feature at the end, but a couple of peop
 
 Overall the feedback I recieved was constructive. I plan to meet with people from the URA this week and incorporate their comments into my final presentation.
 
-[View my ESRI story map storyboard/ wireframe.] (https://arcg.is/1PSTSf0)
+[View my ESRI story map storyboard/ wireframe](https://arcg.is/1PSTSf0).
