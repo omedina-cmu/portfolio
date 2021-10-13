@@ -16,5 +16,6 @@ I want to learn about what makes something appealing and attractive. I want to p
 #### [Assignment 3 & 4: Critique by Design](dataviz3.md)
 #### [Final Project Part I](final_project_OscarMedina.md)
 #### [Final Project Part II](final_project_PtII.md)
+#### [Final Project Part III](final_project_Pt3.md)
 #### [Final Data Story](https://arcg.is/1PSTSf0)
 
