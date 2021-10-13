@@ -1,4 +1,7 @@
 # Final Project Part II
+##### [Final Project Part I](final_project_OscarMedina.md)
+##### [Final Project Part III](final_project_Pt3.md)
+
 For my wireframe/storyboard, I decided to start a working draft using ESRI StoryMaps. 
 
 The story I want to tell is straightforward. Business owners should consider Larimer, a low-income and historically underserved community, as a place to start their business. The city and the URA have made serious investments in the community, and prospective business owners would be wise to leverage those investments. 
