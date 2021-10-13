@@ -14,7 +14,7 @@ I took all the pictures in the presentation.
 
 “Neighborhoods - Shapefile - WPRDC.” Accessed October 12, 2021. [https://data.wprdc.org/dataset/neighborhoods2/resource/c5a93a8e-03d7-4eb3-91a8-c6b7db0fa261](https://data.wprdc.org/dataset/neighborhoods2/resource/c5a93a8e-03d7-4eb3-91a8-c6b7db0fa261).
 
-Davison, Remy. “‘We Deserve It’: Larimer Residents Reflect on the Neighborhood’s History and the Long Fight for Redevelopment.” PublicSource | News for a better Pittsburgh, November 20, 2019. [https://www.publicsource.org/we-deserve-it-larimer-residents-reflect-on-the-neighborhoods-history-and-the-long-fight-for-redevelopment/](https://www.publicsource.org/we-deserve-it-larimer-residents-reflect-on-the-neighborhoods-history-and-the-long-fight-for-redevelopment/).
+Davison, Remy. “‘We Deserve It’: Larimer Residents Reflect on the Neighborhood’s History and the Long Fight for Redevelopment.” PublicSource News for a better Pittsburgh, November 20, 2019. [https://www.publicsource.org/we-deserve-it-larimer-residents-reflect-on-the-neighborhoods-history-and-the-long-fight-for-redevelopment/](https://www.publicsource.org/we-deserve-it-larimer-residents-reflect-on-the-neighborhoods-history-and-the-long-fight-for-redevelopment/).
 
 “Larimer (Larimer Avenue).” Accessed September 28, 2021. [https://www.ura.org/business-district-profiles/larimer-larimer-avenue](https://www.ura.org/business-district-profiles/larimer-larimer-avenue).
 
