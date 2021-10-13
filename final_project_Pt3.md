@@ -1,4 +1,4 @@
-90# Part III
+# Part III
 
 I made some significant changes to my project since Part II. I started this project with the idea that I would repurpose an existing data document and visualize it in a unique way to call attention to the business opportunities in Larimer. But as the project progressed, I realized that there was more to Larimer's story than the high-level demographic numbers and information related to market conditions. At the same time, as I talked to people about my project, I was surprised by how little they knew about Larimer and its transformation. 
 
