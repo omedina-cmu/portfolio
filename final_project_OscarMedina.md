@@ -1,3 +1,6 @@
+#### [Final Project Part II](final_project_PtII.md)
+#### [Final Project Part III](final_project_Pt3.md)
+
 # Final Project Part I
 
 #### Summary 
